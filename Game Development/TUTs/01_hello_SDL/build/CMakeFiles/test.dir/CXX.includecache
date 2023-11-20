@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/01_hello_SDL.cpp
+SDL2/SDL.h
+-
+stdio.h
+-
+

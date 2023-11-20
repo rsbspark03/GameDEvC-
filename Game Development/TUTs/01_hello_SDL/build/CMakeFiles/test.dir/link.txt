@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/01_hello_SDL.cpp.o  -o test  -lSDL2 
