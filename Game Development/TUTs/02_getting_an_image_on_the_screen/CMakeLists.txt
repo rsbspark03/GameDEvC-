@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(test)
 
 set( FILES
-    01_hello_SDL.cpp
+    02_getting_an_image_on_the_screen.cpp
 )
 
 find_package(SDL2 REQUIRED)

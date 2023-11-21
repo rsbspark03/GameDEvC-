@@ -6,5 +6,5 @@ cmake_install.cmake
 Makefile
 cmake-build-debug/
 cmake-build-release/
-TUTs/01_hello_SDL/build/
-TUTs/02_getting_an_image_on_the_screen/build/
+Game Development/TUTs/01_hello_SDL/build/
+Game Development/TUTs/02_getting_an_image_on_the_screen/build/
