@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/01_hello_SDL.cpp" "/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/test.dir/01_hello_SDL.cpp.o"
+  "/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/01_hello_SDL.cpp" "/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/test.dir/01_hello_SDL.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

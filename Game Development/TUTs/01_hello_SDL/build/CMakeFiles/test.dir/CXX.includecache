@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/01_hello_SDL.cpp
+/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/01_hello_SDL.cpp
 SDL2/SDL.h
 -
 stdio.h

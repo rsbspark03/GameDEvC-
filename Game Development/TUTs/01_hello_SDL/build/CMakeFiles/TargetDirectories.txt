@@ -1,3 +1,3 @@
-/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/rebuild_cache.dir
-/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/edit_cache.dir
-/home/arrsjoraq/Desktop/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/test.dir
+/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/rebuild_cache.dir
+/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/edit_cache.dir
+/home/arrsjoraq/GameDevCpp/Game Development/TUTs/01_hello_SDL/build/CMakeFiles/test.dir
